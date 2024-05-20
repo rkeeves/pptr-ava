@@ -1,0 +1,17 @@
+{
+  "name": "pptr-ava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ava"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^2.3.0",
+    "dotenv": "^16.4.5",
+    "puppeteer": "^21.5.1",
+    "uuid": "^9.0.1"
+  }
+}
